@@ -1,0 +1,6 @@
+/* Remove indentation on bullet lists inside the about page */
+.about ul {
+  padding-left: 0;   /* 기본 들여쓰기 제거 */
+  margin-left: 0;    /* 리스트 왼쪽 여백 제거 */
+  list-style-position: inside; /* 불릿을 안쪽으로 붙임 */
+}
