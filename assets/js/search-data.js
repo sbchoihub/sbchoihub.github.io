@@ -69,11 +69,6 @@ ninja.data = [{
           title: 'Plasma-based n-Hexane Pyrolysis',
           description: "Reaction mechanism modeling &amp; CFD-informed analysis",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-plasma-based-n-hexane-pyrolysis",
-          title: 'Plasma-based n-Hexane Pyrolysis',
-          description: "Reaction mechanism modeling &amp; CFD-informed analysis",
-          section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
