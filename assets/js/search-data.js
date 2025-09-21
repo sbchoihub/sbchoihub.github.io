@@ -60,12 +60,7 @@ ninja.data = [{
             },},{id: "news-i-have-launched-my-personal-academic-website-today",
           title: 'I have launched my personal academic website today!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-plasma-based-n-hexane-pyrolysis",
+          section: "News",},{id: "projects-plasma-based-n-hexane-pyrolysis",
           title: 'Plasma-based n-Hexane Pyrolysis',
           description: "Reaction mechanism modeling &amp; CFD-informed analysis",
           section: "Projects",handler: () => {
