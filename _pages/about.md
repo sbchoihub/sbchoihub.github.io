@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Master’s Student in Mechanical Engineering, Hongik University <br> Plasma-Assisted Reaction Modeling & Computational Fluid Dynamics"
+subtitle: "Master's Student in Mechanical Engineering, Hongik University <br> Plasma-Assisted Reaction Modeling & Computational Fluid Dynamics"
 
 
 profile:
@@ -24,13 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 ### About Me
-I am a <b>Master’s student in Mechanical Engineering</b> at <b>Hongik University</b>, specializing in <a href='#'>computational modeling of plasma-assisted hydrocarbon conversion</a>.  
-My research focuses on developing <b>optimized kinetic mechanisms</b> and <b>numerical simulations</b> for plasma pyrolysis, with applications in hydrogen production and sustainable energy.  
-I aim to bridge hermal-fluid simulations with chemical kinetics to design efficient plasma processes for cleaner energy systems.
-
-
+I am a <b>Master's student in Mechanical Engineering</b> at <b>Hongik University</b>, specializing in <a href='#'>plasma-assisted hydrocarbon conversion</a> through an integrated approach combining <b>numerical simulation and experimental diagnostics</b>.  
+My research spans chemical kinetic modeling, computational fluid dynamics (CFD), and plasma reactor characterization, with applications in hydrogen production, olefin synthesis, and nitrogen fixation.  
+I aim to bridge reaction mechanism development with experimental validation to provide mechanistic insight and practical design guidelines for next-generation plasma processes.
 
 ### Research Highlights
-- **Publications**: Published in the *International Journal of Hydrogen Energy* on plasma-assisted hydrocarbon pyrolysis  
-- **Presentations**: Delivered oral presentations at international conferences, including ISPC26 (2025) and 13th-ISNTP (2024)  
-- **Projects**: Generated chemical reaction mechanisms targeting plasma-driven high-temperature environments and predicted product distributions through computational simulations
+- **Publications**: Published in *Physica Scripta* and *Fuel* on plasma-assisted pyrolysis modeling; co-authored in *Journal of Cleaner Production* and *Korea-Australia Rheology Journal*
+- **Presentations**: Delivered oral presentations at international conferences including ISPC26 (2025), EAPETEA-10 (2025), 13th-ISNTP (2024), and KIChE (2026); received **Best Oral Presentation Awards** at EAPETEA-10 and KIChE
+- **Simulation**: Developed optimized chemical kinetic mechanisms using RMG and performed 0-D, 1-D, and CFD analyses of plasma pyrolysis reactors
+- **Experiment**: Characterized pin-to-pin arc plasma for nitrogen fixation using high-speed imaging, SPOD, OES, sCMOS, and FTIR diagnostics
