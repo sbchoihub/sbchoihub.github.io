@@ -3,7 +3,7 @@ layout: page
 title: Plasma Upcycling of Waste Plastic-Derived Oils
 description: Surrogate-based chemical kinetic analysis of PPO pyrolysis in a hydrogen plasma reactor
 img: assets/img/fuel.png
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
@@ -30,7 +30,7 @@ Hydrogen plasma can suppress carbon deposition, enhance heat transfer, and promo
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/fuel_regime.png" title="Temperature-residence-time regime map" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/fuel.png" title="Temperature-residence-time regime map" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
