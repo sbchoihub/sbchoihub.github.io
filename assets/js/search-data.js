@@ -60,7 +60,12 @@ ninja.data = [{
             },},{id: "news-i-have-launched-my-personal-academic-website-today",
           title: 'I have launched my personal academic website today!',
           description: "",
-          section: "News",},{id: "projects-plasma-based-n-hexane-pyrolysis",
+          section: "News",},{id: "projects-plasma-upcycling-of-waste-plastic-derived-oils",
+          title: 'Plasma Upcycling of Waste Plastic-Derived Oils',
+          description: "Surrogate-based chemical kinetic analysis of PPO pyrolysis in a hydrogen plasma reactor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-plasma-based-n-hexane-pyrolysis",
           title: 'Plasma-based n-Hexane Pyrolysis',
           description: "Reaction mechanism modeling &amp; CFD-informed analysis",
           section: "Projects",handler: () => {
