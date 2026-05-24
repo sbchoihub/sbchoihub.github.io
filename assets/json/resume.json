@@ -1,138 +1,165 @@
 {
   "basics": {
     "name": "Subin Choi",
-    "label": "MS student",
+    "label": "MS Student in Mechanical Engineering",
     "image": "",
-    "email": "csb9975@egmail.com",
+    "email": "csb9975@gmail.com",
     "phone": "(+82) 10-3611-2081",
     "url": "https://sbchoihub.github.io/",
     "summary": "",
+    "location": {
+      "city": "Daejeon",
+      "countryCode": "KR"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "sbchoihub",
+        "url": "https://github.com/sbchoihub"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Subin Choi",
+        "url": "https://scholar.google.com/citations?user=xjatXdkAAAAJ"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Subin Choi",
+        "url": "https://www.linkedin.com/in/subin7767b6370"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Korea Institute of Machinery and Materials (KIMM)",
+      "position": "Research Assistant",
+      "url": "https://www.kimm.re.kr",
+      "startDate": "2024-03-01",
+      "endDate": "",
+      "summary": "Semiconductor Manufacturing Research Center",
+      "highlights": [
+        "Plasma-assisted hydrocarbon pyrolysis modeling",
+        "Chemical kinetic analysis of waste plastic-derived oil pyrolysis",
+        "Nitrogen fixation using pin-to-pin arc plasma"
+      ]
     }
   ],
-  
   "education": [
     {
-      "institution": "Hongik University, Korea",
+      "institution": "Hongik University",
       "location": "Sejong, Korea",
-      "area": "Mechanical Engineering",
+      "url": "https://www.hongik.ac.kr",
+      "area": "Mechanical & Design Engineering",
+      "studyType": "MS",
+      "startDate": "2024-03-01",
+      "endDate": "",
+      "courses": []
+    },
+    {
+      "institution": "Hongik University",
+      "location": "Sejong, Korea",
+      "url": "https://www.hongik.ac.kr",
+      "area": "Mechanical & Design Engineering",
       "studyType": "BS",
       "startDate": "2018-03-01",
       "endDate": "2024-02-28",
-      "courses": ["Theory of Relativity"]
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Best Oral Presentation",
+      "date": "2026-05-01",
+      "awarder": "2026 KIChE Spring Meeting and International Symposium",
+      "summary": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Best Oral Presentation",
+      "date": "2025-12-01",
+      "awarder": "The 10th East Asia Joint Symposium on Plasma and Electrostatic Technologies for Environmental Application (EAPETEA-10)",
+      "summary": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "4th Place – Mechanical Engineering AI/DX Idea Competition",
+      "date": "2024-01-01",
+      "awarder": "Hongik University",
+      "summary": "Numerical Solutions to Heat Transfer Problems Using Generative AI and Python."
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "3rd Place – University Comprehensive Design Competition",
+      "date": "2023-01-01",
+      "awarder": "Hongik University",
+      "summary": ""
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "title": "4th Place – Future Automotive Autonomous Driving Competition",
+      "date": "2023-01-01",
+      "awarder": "Future Automotive Education Council",
+      "summary": ""
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "2nd Place – University Comprehensive Design Competition",
+      "date": "2022-01-01",
+      "awarder": "Hongik University",
+      "summary": ""
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Chemical Kinetic Analysis of the Pyrolysis Process of Waste Plastic-Derived Oils in a Hydrogen Plasma Reactor",
+      "publisher": "Fuel",
+      "releaseDate": "2026-03-09",
+      "url": "https://doi.org/10.1016/j.fuel.2026.139022",
+      "summary": "Fuel 421, 139022 (2026)"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Numerical Modeling of n-Hexane Pyrolysis with an Optimized Kinetic Mechanism in a Hydrogen Plasma Reactor",
+      "publisher": "Physica Scripta",
+      "releaseDate": "2026-02-05",
+      "url": "https://doi.org/10.1088/1402-4896/ae3c67",
+      "summary": "Phys. Scr. 101, 055007 (2026)"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "A Review of Non-Newtonian Flows Around a Sphere",
+      "publisher": "Korea-Australia Rheology Journal",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1007/s13367-025-00134-4",
+      "summary": "Korea-Aust. Rheol. J. 37(4), 389-403 (2025)"
+    },
+    {
+      "name": "Sustainability Assessment of Electrified Naphtha Cracking Pathways for Carbon-Neutral Ethylene Production",
+      "publisher": "Journal of Cleaner Production",
+      "releaseDate": "2026-05-10",
+      "url": "https://doi.org/10.1016/j.jclepro.2026.008644",
+      "summary": "J. Clean. Prod. 560, 148323 (2026)"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Simulation & Modeling",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computational Fluid Dynamics (CFD)",
+        "Chemical Kinetic Modeling",
+        "ANSYS Fluent",
+        "Chemkin-Pro"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "LaTeX"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -144,38 +171,18 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Plasma-Assisted Pyrolysis",
+        "Chemical Kinetics",
+        "Computational Fluid Dynamics",
+        "Hydrogen Production",
+        "Nitrogen Fixation"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "references": [],
+  "projects": [],
+  "certificates": []
 }
