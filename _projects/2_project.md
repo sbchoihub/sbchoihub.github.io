@@ -38,15 +38,18 @@ Conceptual temperature–residence-time regime maps derived from 1-D simulations
 </div>
 
 ### PE-derived oil
+
 - At **2773 K**: 97.62% conversion with **C₂H₄ selectivity of 50.88%**
 - Regime transition: β-scission → H-attack-driven C3→C2 transfer → secondary cracking
 
 ### PP-derived oil
+
 - At **2773 K**: 98.32% conversion with deep-cracking products
   - CH₄: 30.13%, C₂H₄: 23.91%, C₂H₂: 21.18%, C₆H₆: 15.43%
 - Branched backbone biases low-temperature chemistry toward iso-olefins and CH₄
 
 ### PS-derived oil
+
 - At **2273 K**: C₆H₆ dominated (63.19%) despite 83.55% conversion
 - At **2773 K**: PAH precursor (BIN1B) became major product (35.41%)
 - Requires strict residence-time control to suppress PAH growth
@@ -55,13 +58,13 @@ Conceptual temperature–residence-time regime maps derived from 1-D simulations
 
 ## Temperature–Residence-Time Regime Map
 
-| Feedstock | Temperature | Major Products | Key Pathways |
-|-----------|-------------|---------------|--------------|
-| PE/PP | Low (~1773 K) | C₃H₆, C₄H₆, C₂H₄ | β-scission |
-| PE/PP | Intermediate (~2273 K) | C₂H₄ (dominant) | H-attack, C3→C2 transfer |
-| PE/PP | High (~2773 K) | CH₄, C₂H₂, C₆H₆ | Secondary cracking |
-| PS | Low–Intermediate | C₆H₆ (dominant) | Benzylic C–C scission |
-| PS | High (~2773 K) | BIN1B, PAHs | HACA, PAC mechanisms |
+| Feedstock | Temperature            | Major Products   | Key Pathways             |
+| --------- | ---------------------- | ---------------- | ------------------------ |
+| PE/PP     | Low (~1773 K)          | C₃H₆, C₄H₆, C₂H₄ | β-scission               |
+| PE/PP     | Intermediate (~2273 K) | C₂H₄ (dominant)  | H-attack, C3→C2 transfer |
+| PE/PP     | High (~2773 K)         | CH₄, C₂H₂, C₆H₆  | Secondary cracking       |
+| PS        | Low–Intermediate       | C₆H₆ (dominant)  | Benzylic C–C scission    |
+| PS        | High (~2773 K)         | BIN1B, PAHs      | HACA, PAC mechanisms     |
 
 ---
 
@@ -85,4 +88,4 @@ Conceptual temperature–residence-time regime maps derived from 1-D simulations
 
 ## Related Publication
 
-- 📄 **S. Choi**, C. Jung, D. H. Lee, J. Choi, *"Chemical Kinetic Analysis of the Pyrolysis Process of Waste Plastic-Derived Oils in a Hydrogen Plasma Reactor,"* **Fuel** 421, 139022 (2026). [doi:10.1016/j.fuel.2026.139022](https://doi.org/10.1016/j.fuel.2026.139022)
+- 📄 **S. Choi**, C. Jung, D. H. Lee, J. Choi, _"Chemical Kinetic Analysis of the Pyrolysis Process of Waste Plastic-Derived Oils in a Hydrogen Plasma Reactor,"_ **Fuel** 421, 139022 (2026). [doi:10.1016/j.fuel.2026.139022](https://doi.org/10.1016/j.fuel.2026.139022)

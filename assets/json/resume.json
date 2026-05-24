@@ -139,22 +139,13 @@
       "name": "Simulation & Modeling",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Computational Fluid Dynamics (CFD)",
-        "Chemical Kinetic Modeling",
-        "ANSYS Fluent",
-        "Chemkin-Pro"
-      ]
+      "keywords": ["Computational Fluid Dynamics (CFD)", "Chemical Kinetic Modeling", "ANSYS Fluent", "Chemkin-Pro"]
     },
     {
       "name": "Programming",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "LaTeX"
-      ]
+      "keywords": ["Python", "MATLAB", "LaTeX"]
     }
   ],
   "languages": [
@@ -173,13 +164,7 @@
     {
       "name": "Research",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Plasma-Assisted Pyrolysis",
-        "Chemical Kinetics",
-        "Computational Fluid Dynamics",
-        "Hydrogen Production",
-        "Nitrogen Fixation"
-      ]
+      "keywords": ["Plasma-Assisted Pyrolysis", "Chemical Kinetics", "Computational Fluid Dynamics", "Hydrogen Production", "Nitrogen Fixation"]
     }
   ],
   "references": [],

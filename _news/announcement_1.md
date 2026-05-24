@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have launched my personal academic website today!  
+I have launched my personal academic website today!

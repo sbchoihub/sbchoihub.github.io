@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper *"Numerical Modeling of n-Hexane Pyrolysis with an Optimized Kinetic Mechanism in a Hydrogen Plasma Reactor"* has been published in **Physica Scripta** (Vol. 101, 055007)!
+Our paper _"Numerical Modeling of n-Hexane Pyrolysis with an Optimized Kinetic Mechanism in a Hydrogen Plasma Reactor"_ has been published in **Physica Scripta** (Vol. 101, 055007)!

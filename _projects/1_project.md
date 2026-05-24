@@ -28,16 +28,19 @@ A minimum energy cost of approximately **2.5 MJ/mol** was achieved, demonstratin
 ## Key Results
 
 ### Effect of Arc Gap & Swirl
+
 - NO concentration increased with increasing pin-to-pin gap under all conditions
 - Smaller swirl hole (1 mm, S_g = 4.37) produced higher NO than larger hole (3 mm, S_g = 1.45)
 - Energy cost decreased from ~4.5 MJ/mol → **~2.5 MJ/mol** as gap increased to 300 mm
 
 ### Effect of Oxygen Concentration
+
 - **Highest NO production** at ~30% O₂ (optimal balance between oxygen radicals and electron density)
 - **Lowest energy cost** at ~50% O₂ (highest total NOx production)
 - Arc stability deteriorated at higher O₂ fractions due to electron attachment
 
 ### Effect of Delivered Power
+
 - Higher power enabled stable operation at longer arc lengths
 - Lower power reduced energy cost but limited maximum sustainable arc length
 - Optimal trade-off exists between energy efficiency and discharge stability
@@ -75,4 +78,4 @@ SPOD analysis of arc column dynamics. Smaller swirl holes shifted dominant oscil
 
 ## Related Publication
 
-- H. S. Choi, S. Choi, **S. Choi**, S. U. Hassan, G. Kim, D. H. Lee, M. S. Bak, J. Choi, *"Nitrogen Fixation Using a Pin-to-Pin Arc Plasma: Effects of Operating Parameters on NOx Formation Characteristics and Arc Stability,"* **Chem. Eng. J.** (under review).
+- H. S. Choi, S. Choi, **S. Choi**, S. U. Hassan, G. Kim, D. H. Lee, M. S. Bak, J. Choi, _"Nitrogen Fixation Using a Pin-to-Pin Arc Plasma: Effects of Operating Parameters on NOx Formation Characteristics and Arc Stability,"_ **Chem. Eng. J.** (under review).
