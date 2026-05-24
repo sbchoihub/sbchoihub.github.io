@@ -3,7 +3,7 @@ layout: page
 title: Plasma-based n-Hexane Pyrolysis
 description: Reaction mechanism modeling & CFD-informed analysis
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---
