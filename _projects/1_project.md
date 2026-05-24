@@ -4,7 +4,7 @@ title: Plasma Upcycling of Waste Plastic-Derived Oils
 description: Surrogate-based chemical kinetic analysis of PPO pyrolysis in a hydrogen plasma reactor
 img: assets/img/fuel.png
 importance: 2
-category: research
+category: work
 related_publications: true
 ---
 
