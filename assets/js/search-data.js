@@ -60,11 +60,28 @@ ninja.data = [{
             },},{id: "news-i-have-launched-my-personal-academic-website-today",
           title: 'I have launched my personal academic website today!',
           description: "",
-          section: "News",},{id: "projects-plasma-upcycling-of-waste-plastic-derived-oils",
+          section: "News",},{id: "news-received-the-best-oral-presentation-award-at-the-10th-east-asia-joint-symposium-on-plasma-and-electrostatic-technologies-for-environmental-application-eapetea-10-in-december-2025",
+          title: 'Received the Best Oral Presentation Award at the 10th East Asia Joint Symposium...',
+          description: "",
+          section: "News",},{id: "news-our-paper-numerical-modeling-of-n-hexane-pyrolysis-with-an-optimized-kinetic-mechanism-in-a-hydrogen-plasma-reactor-has-been-published-in-physica-scripta-vol-101-055007",
+          title: 'Our paper “Numerical Modeling of n-Hexane Pyrolysis with an Optimized Kinetic Mechanism in...',
+          description: "",
+          section: "News",},{id: "news-our-paper-chemical-kinetic-analysis-of-the-pyrolysis-process-of-waste-plastic-derived-oils-in-a-hydrogen-plasma-reactor-has-been-published-in-fuel-vol-421-139022",
+          title: 'Our paper “Chemical Kinetic Analysis of the Pyrolysis Process of Waste Plastic-Derived Oils...',
+          description: "",
+          section: "News",},{id: "news-received-the-best-oral-presentation-award-at-the-2026-kiche-spring-meeting-and-international-symposium",
+          title: 'Received the Best Oral Presentation Award at the 2026 KIChE Spring Meeting and...',
+          description: "",
+          section: "News",},{id: "projects-plasma-based-nitrogen-fixation",
+          title: 'Plasma-Based Nitrogen Fixation',
+          description: "NOx formation and arc stability in a pin-to-pin arc plasma reactor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-plasma-upcycling-of-waste-plastic-derived-oils",
           title: 'Plasma Upcycling of Waste Plastic-Derived Oils',
           description: "Surrogate-based chemical kinetic analysis of PPO pyrolysis in a hydrogen plasma reactor",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-plasma-based-n-hexane-pyrolysis",
           title: 'Plasma-based n-Hexane Pyrolysis',
           description: "Reaction mechanism modeling &amp; CFD-informed analysis",
