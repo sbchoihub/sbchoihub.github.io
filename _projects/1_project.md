@@ -51,7 +51,8 @@ A minimum energy cost of approximately **2.5 MJ/mol** was achieved, demonstratin
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/nitrogen_spod.png" title="SPOD analysis of arc dynamics" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/nitrogen_spod.png" title="SPOD analysis of arc dynamics" class="img-fluid rounded z-depth-1" 
+    zoomable=false%}
   </div>
 </div>
 <div class="caption">
